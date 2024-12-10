@@ -35,7 +35,7 @@ This project is a blend of nostalgia and technical challenge. It demonstrates ho
    ```bash
    dosbox flappy.com
    ```
-4. Use the spacebar to flap the bird and avoid obstacles!
+4. Use the up arrow key to flap the bird and avoid obstacles!
 
 ## Contributing
 Feel free to contribute by improving the code, adding new features, or optimizing the gameplay. Fork the repo, make your changes, and submit a pull request.
